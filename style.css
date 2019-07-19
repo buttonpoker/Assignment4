@@ -1,0 +1,35 @@
+.fclass {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.label {
+  display: flex;
+  align-items: center;
+}
+
+body {
+  background: cadetblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+  border-style: solid;
+  padding: 18px;
+  background: lightgray;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  border-style: solid;
+  padding: 18px;
+  background: white;
+}
+
+h4 {
+  display: flex;
+  justify-content: center;
+}
